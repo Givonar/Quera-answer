@@ -1,4 +1,4 @@
-[فارسی](https://github.com/karkit7117/quera-answer/blob/main/README-Persian.md) 🇮🇷
+🇮🇷 [فارسی](https://github.com/karkit7117/quera-answer/blob/main/README-IR.md)
 # Finding the Answer to a Question
 Each question on the Quera site has an ID that you can see in the question link. The answers are also named with the ID in the [answer](https://github.com/karkit7117/quera-answer/tree/main/answer) folder.
 
