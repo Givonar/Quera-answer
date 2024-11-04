@@ -23,5 +23,5 @@
   پس تنها کاری که باید بکنی اینه که آیدی سوال رو جای XXX لینک زیر بزاری و تو مرورگر بازش کنی
   
 ```
-https://github.com/karkit7117/quera-answer/blob/main/answer/XXX.cpp
+https://github.com/givonar/quera-answer/blob/main/answer/XXX.cpp
 ```
